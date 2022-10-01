@@ -1,5 +1,4 @@
-Blog server is currently hosted on render.com.
-Relevant information below.
+Blog server is currently hosted on render.com. Relevant information below.
 
 <div align="center">
 
@@ -14,7 +13,7 @@ Relevant information below.
     <a href="https://github.com/enzorod10/blog-editing/">The Blog Editor</a>
     ·
     <a href="https://github.com/enzorod10/portfolio/tree/main/src/components/Blog">The Blog Itself (Part of portfolio)</a>
-    .
+    ·
     <a href="https://github.com/enzorod10/blog-backend/issues">Report Bug</a>
     ·
   </p>
